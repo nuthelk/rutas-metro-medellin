@@ -1,0 +1,44 @@
+estacion,linea,tipo_estacion,zona,pasajeros_dia,proporcion_hora_pico,num_conexiones,tiempo_espera_min,indice_congestion,distancia_centro_km,frecuencia_servicio,incidentes_mes,satisfaccion_promedio,es_metrocable
+Niquia,A,terminal,norte,11648,60.5,2,4.0,1.7,10.6,11,2.2,3.9,0
+Bello,A,regular,norte,6424,49.8,2,3.1,1.5,9.9,13,1.8,3.0,0
+Madera,A,regular,norte,8257,52.9,2,5.8,3.1,9.16,17,2.0,3.8,0
+Acevedo,A,transbordo,norte,15212,54.0,4,4.1,6.0,8.35,12,4.1,3.6,0
+Tricentenario,A,regular,norte,6674,37.3,2,3.4,5.2,7.22,19,1.2,3.0,0
+Caribe,A,regular,centro,25054,65.7,2,6.9,6.5,6.01,18,3.2,3.8,0
+Universidad,A,regular,centro,21850,66.5,2,5.8,5.2,2.57,13,5.1,4.2,0
+Hospital,A,transbordo,centro,43027,59.7,3,3.1,8.4,1.67,15,3.8,3.0,0
+Prado,A,regular,centro,18748,69.0,2,5.7,5.3,0.78,20,2.7,3.9,0
+Parque Berrio,A,regular,centro,15354,64.2,2,4.1,8.7,0.35,18,2.9,3.1,0
+San Antonio,A,transbordo,centro,40176,70.5,4,4.5,9.4,0.0,16,4.3,2.8,0
+Alpujarra,A,regular,centro,28585,72.5,2,4.3,7.6,0.5,16,5.5,3.4,0
+Exposiciones,A,regular,centro,14681,60.3,2,4.0,7.2,1.14,14,2.4,3.2,0
+Industriales,A,transbordo,sur,34121,45.0,4,5.0,5.4,1.89,17,3.5,2.8,0
+Poblado,A,regular,sur,6796,38.8,2,3.6,4.4,4.12,19,0.7,3.4,0
+Aguacatala,A,regular,sur,12668,48.2,2,6.9,5.3,5.33,10,2.2,3.1,0
+Ayura,A,regular,sur,13797,53.8,2,6.1,2.7,6.36,14,1.6,3.5,0
+Envigado,A,regular,sur,16830,56.9,2,4.1,3.5,8.03,12,4.0,3.1,0
+Itagui,A,regular,sur,15244,42.5,2,5.6,4.0,9.27,12,3.5,3.2,0
+Sabaneta,A,regular,sur,17757,58.1,2,6.7,4.0,11.81,17,2.1,3.9,0
+La Estrella,A,terminal,sur,18076,64.8,1,6.5,5.7,13.58,11,4.9,3.8,0
+Cisneros,B,regular,centro,27455,70.3,2,3.5,6.9,0.5,18,2.7,3.7,0
+Suramericana,B,regular,occidente,6969,45.6,2,3.8,3.7,1.16,13,2.3,3.4,0
+Estadio,B,regular,occidente,7502,51.2,2,4.8,3.6,2.14,11,1.1,3.1,0
+Floresta,B,regular,occidente,2172,49.7,2,3.9,2.1,2.89,11,2.3,3.1,0
+Santa Lucia,B,regular,occidente,2552,57.6,2,6.4,1.4,3.55,13,1.2,3.5,0
+San Javier,B,transbordo,occidente,32669,38.3,6,2.7,6.4,4.93,16,4.0,2.9,0
+Andalucia,K,regular,noreste,5531,43.9,2,8.5,5.3,9.13,6,2.2,3.5,1
+Popular,K,regular,noreste,2806,36.5,2,10.4,5.0,9.77,6,1.1,2.7,1
+Santo Domingo,K,transbordo,noreste,29700,38.5,4,7.7,5.7,10.58,6,5.2,3.7,1
+Juan XXIII,J,regular,occidente,6508,37.4,2,9.9,3.7,5.86,6,2.9,3.4,1
+Vallejuelos,J,regular,occidente,8952,40.9,2,8.4,3.4,6.61,9,2.8,2.7,1
+La Aurora,J,terminal,occidente,8070,79.7,2,11.6,4.9,7.39,8,1.6,3.5,1
+San Jose,T-A,regular,centro,28211,68.2,2,4.9,5.8,0.46,9,5.9,3.8,0
+Pabellon del Agua,T-A,regular,centro,27766,56.2,2,4.3,5.2,0.9,11,4.0,4.1,0
+Bicentenario,T-A,regular,centro,15158,56.1,2,5.0,8.4,1.35,8,4.4,3.5,0
+Buenos Aires,T-A,regular,oriente,3926,45.1,2,6.8,3.8,1.8,12,2.0,3.6,0
+Miraflores,T-A,transbordo,oriente,28737,51.4,5,4.8,5.6,2.24,10,4.2,3.2,0
+Loyola,T-A,regular,oriente,7502,51.1,2,4.8,5.6,2.69,8,0.5,3.6,0
+Alejandro Echavarria,T-A,regular,oriente,6612,59.9,2,3.3,2.1,3.14,10,0.8,3.3,0
+Oriente,T-A,terminal,oriente,10254,77.6,2,4.1,3.2,3.59,12,2.3,3.6,0
+13 de Noviembre,H,terminal,oriente,8256,73.4,2,11.6,1.5,2.72,7,1.2,3.4,1
+Arvi,L,terminal,noreste,13093,65.4,1,10.3,2.0,14.25,8,1.8,2.8,1
